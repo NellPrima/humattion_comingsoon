@@ -48,6 +48,7 @@
     border: .3rem solid #ece9e9;
     flex-direction: row;
     display: flex;
+    padding: 1rem;
 }
 
 .coming_soon h4 {
@@ -101,9 +102,9 @@
 
 @media (max-width: 1000px){
 
-    body {
+    /* body {
         background-color: #800020;
-    }
+    } */
 
     #everything {
         width: 100%;
